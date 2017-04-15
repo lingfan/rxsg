@@ -1,0 +1,39 @@
+﻿/* CSS Document */
+body { font:normal 12px/1.6 Tahoma; color:#333; background:#000 url(../Images/bodybg.jpg) repeat-x;}
+body, div, dl, dt, dd, ul, li, h1, h2, h3, h4, h5, h6, a, p { margin:0; padding:0; list-style:none;}
+input, img, select { vertical-align:middle;}
+h1, h2, h3, h4, h5, h6 { font-size:12px; font-weight:normal;}
+img { border:0;}
+.clear { clear:both; line-height:0; height:0; font-size:0;}
+a { color:#333; text-decoration:none;}
+a:hover { color:#f60; text-decoration:underline;}
+.fl { float:left;}
+.fr { float:right;}
+
+#Warpper { position:relative; width:1000px; margin:auto;}
+	#Warpper .bg1 {height:190px; background:url(../Images/Rsbg_1.jpg) 50% 0 no-repeat;}
+	#Warpper .bg2 {height:266px; background:url(../Images/Rsbg_2.jpg) 50% 0 no-repeat;}
+	#Warpper .bg3 {height:194px; background:url(../Images/Rsbg_3.jpg) 50% 0 no-repeat;}
+	.Photoimg,.PhotoGril,.PhotoBoy,.Inputbox em,.Inputbox li span input,.ZhuanTai,.ZhuanTai2,.StartButton input {background:url(../Images/Picbg.jpg) no-repeat;}
+	.Photo {position:absolute; width:66px; top:245px;left:234px;}
+		.Photoimg {	width:50px;	height:50px;padding:3px; margin:auto; background-position:-250px -100px;}
+		.Photo li p { margin-top:10px;}
+		.PhotoGril,.PhotoBoy { height:17px; text-indent:-9999px;}
+		.PhotoGril { background-position:0 0;}
+		.PhotoBoy  { background-position:-250px 0;}
+	.Inputbox { position:absolute; width:232px; top:245px; left:320px;}
+		.Inputbox li { margin-bottom:15px; color:#f3e29e;}
+		.Inputbox li em { float:left; width:81px; height:26px; line-height:26px; text-align:center; color:#00d7ff; font-weight:bold; font-style:normal; background-position:0 -50px;}
+		.Inputbox li span { margin-left:5px; *margin-left:3px;}
+		.Inputbox li span input { width:134px; border:0; color:#f3e29e; font-size:12px; padding:5px; height:16px; background-position:-88px -50px;}
+		.Inputbox li span select { color:#f3e29e; width:144px; text-align:center; background:#151914;}
+		.ZhuanTai { height:95px; padding:10px; background-position:0 -100px;}
+		.ZhuanTai i { font-size:14px; font-style:normal;}
+		.ZhuanTai b { color:#00ff00; font-weight:normal;}
+	.ShouMing { position: absolute; width:232px; top:230px; *top:232px; right:200px;}
+		.ShouMing li {margin-top:18px; color:#f3e29e;}
+		.ShouMing li span { color:#666;}
+		.ZhuanTai2 { height:115px; padding:8px; background-position:0 -100px;}
+		.ZhuanTai2 i { font-style:normal;  color:#87ab09;}
+	.StartButton {	position:absolute;top:461px;left:400px;}
+		.StartButton input { width:228px; height:55px; border:0; cursor:pointer; background-position:0 -230px;}

@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>热血三国</title>
+<script type='text/javascript'>
+function checkkey()
+{
+if (event.keyCode==13)
+getLocation();
+}
+function getLocation(){
+document.getElementById('myform').submit()
+}
+</SCRIPT> 
+</HEAD> 
+<BODY onkeydown="checkkey()"> 
+
+
+
+<style type="text/css">
+*{ word-wrap:break-word; outline:none; }
+html, body{ height:100%;}
+body, div, td, input, textarea, select, button{  font:normal 12px Tahoma, Verdana, Arial;}
+body, div, ul, dl, dt, dd, p, h1, h2, h3, h4, h5, h6, form, fieldset { margin:0; padding:0; }
+body{ color:#ccc; background:#000;}
+ul,li{ list-style:none; }
+h1, h2, h3, h4, h5, h6{ font-size:12px; }
+em, cite, th, i{ font-style:normal; font-weight:normal;}
+label{ cursor:pointer; }
+a{ color:#069; text-decoration:none; font-family:Verdana;}
+	a:hover { text-decoration:underline; }
+	a img{ border:none; }
+	
+#Wrapper{ position:relative; margin:auto; width:1003px; height:600px; background:url(Images/fen.jpg) no-repeat;}
+	.post{ position:absolute; top:200px; left:325px; width:355px; height:170px;font-weight:400;font-size:14px;color:white;}
+	.login{ position:absolute; top:410px; left:438px;}
+		.login li{ position:relative; display:block; height:30px; background:url(Images/Input.png) no-repeat; width:142px;}
+		.login li em{ display:none;}
+		.login li input{ border:0; background:transparent; margin:2px; color:#fff; width:134px;}		
+		*html .login li{ background:none;}
+		*html .login li i{ position:absolute; top:0; left:0; z-index:-1; width:142px;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Images/Input.png', sizingMethod='none');}
+		
+		.login li.button{ position:relative; margin-top:10px; background:none; height:auto; width:108px; height:36px; overflow:hidden;}
+		.login li.button a{ display:block; position:relative; z-index:10; color:#e6f678; width:106px; height:36px; line-height:33px; *line-height:36px; text-align:center; font-weight:bold; }
+		.login li.button a:hover{ text-decoration:none;}
+		.login li.button i{ position:absolute; top:0; left:0; z-index:0; width:142px; height:72px; background:url(Images/button.png) no-repeat; _background:none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='Images/button.png', sizingMethod='none');}
+		.login li.button i.hover{ top:-36px;}
+		.login li.button i.down{ top:1px; left:1px;}
+</style>
+</head>
+
+<body onload="checkkey()">
+<div id="Wrapper">
+	<div class="post">亲爱的《风云三国》玩家：<br />
+《风云三国》“五一最新”服务器<font color='yellow' div align=center h5><br/>      用户中心<br/></div></h5><font color='yellow'><br/><h4>在这里，你可以修改密码或找回密码！</h4><br />
+Q群：暂无
+
+</div>
+	<form action="" method="post" id="myform">
+	<ul class="login">
+    	
+        <li class="button"><a href="xg_pwd.php" onmouseover="bt_login(this)" onclick="getLocation()">修改密码</a><i></i></li>
+        <li class="button"><a href="zh_pwd.php" onmouseover="bt_login(this)" onclick="getLocation()">找回密码</a><i></i></li>
+        <li style="background:none;color:white;"><?php if(isset($info)) echo "$info"; ?></li>
+    </ul>
+    </form>
+</div>
+<script type="text/javascript">
+function bt_login(o){
+	var oi = o.parentNode.getElementsByTagName("i")[0];
+	oi.className = "hover";
+	o.onmousedown = function(){oi.className = "down";}
+	o.onmouseup = o.onmouseout = function(){oi.className = "";}	
+	o.onfocus = function(){this.blur();};
+}
+</script>
+</body>
+</html>

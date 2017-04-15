@@ -1,0 +1,10 @@
+ table{border-collapse:collapse;border-spacing:0px; width:100%; border:#000 solid 1px;} 
+ table td{border:1px solid #000;height:25px; text-align:center; border-left:0px;} 
+ table th{ background:#edd3d4; color:#a10333; border:#000 solid 1px; white-space:nowrap; height:21px; border-top:0px;border-left:0px;} 
+ .t_left{width:30%; height:auto; float:left;border-top:1px solid #000;border-left:1px solid #000;} 
+ .t_r_content{width:101%; height:168px; background:#fff; overflow:auto;font-size:14px;} 
+ .cl_freeze{height:140px;overflow:hidden; width:100%;} 
+ .t_r{width:100%; height:auto; float:left;border-top:1px solid #000; border-right:#000 solid 1px;font-size:16px;}  
+ .t_r table{width:100%;} 
+ .t_r_title{width:97.7%;}
+ .t_r_t{width:100%; overflow:hidden;font-size:14px;}

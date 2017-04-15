@@ -1,0 +1,279 @@
+BODY {
+	MARGIN: 0px; FONT: 12px ????,sans-serif
+}
+.ctn {
+	MIN-WIDTH: 1002px; BACKGROUND: url(../images/2.0/sm_zhgl_ctn_top.jpg) no-repeat center top; MARGIN: 0px; TEXT-ALIGN: center
+}
+#mian {
+	MARGIN: 0px auto; WIDTH: 1002px; TEXT-ALIGN: left
+}
+.topmenu {
+	LEFT: 0px; WIDTH: 100%; POSITION: absolute; TOP: 0px; HEIGHT: 224px; TEXT-ALIGN: center
+}
+.topmenu .menu {
+	MARGIN: 0px auto; WIDTH: 1002px
+}
+.flash_link {
+	MARGIN-TOP: 100px; MARGIN-LEFT: 430px; WIDTH: 370px; POSITION: absolute; HEIGHT: 50px
+}
+.flash_link A {
+	DISPLAY: block; WIDTH: 100%; HEIGHT: 100%
+}
+.ctn_left {
+	MARGIN-TOP: 88px; FLOAT: left; WIDTH: 230px; TEXT-ALIGN: center
+}
+#link_zc {
+	FLOAT: right; WIDTH: 204px; HEIGHT: 127px
+}
+#link_zc A {
+	DISPLAY: block; WIDTH: 100%; HEIGHT: 100%
+}
+.ctn_ifrm {
+	FLOAT: right; WIDTH: 202px; HEIGHT: 280px; BACKGROUND-COLOR: #000
+}
+.ctn_left .login {
+	BACKGROUND: url(../images/userimg/sm/sm_login_bg.gif); MARGIN-LEFT: 14px; WIDTH: 188px; HEIGHT: 197px
+}
+.link-button {
+	BACKGROUND: url(../images/2.0/l_link_bg.jpg) no-repeat; FLOAT: right; WIDTH: 198px; PADDING-TOP: 10px; HEIGHT: 245px; TEXT-ALIGN: center
+}
+DIV.l-link-button {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 10px 0px 0px; PADDING-TOP: 0px
+}
+DIV.l-link-button A {
+	MARGIN: 1px 0px
+}
+.ctn_left .xgmm {
+	MARGIN-TOP: 4px; FONT-SIZE: 12px
+}
+.ctn_left .ad {
+	MARGIN: 8px 0px 0px 14px
+}
+.ctn_right {
+	MARGIN-TOP: 110px; FLOAT: right; WIDTH: 772px
+}
+.ctn_right .top {
+	WIDTH: 747px
+}
+.ctn_right .main_c {
+	BACKGROUND: url(../images/2.0/sm_m_ctn_bg.jpg) no-repeat center 150px; PADDING-BOTTOM: 50px; WIDTH: 772px; PADDING-TOP: 20px
+}
+.ctn_right .main_c2 {
+	BACKGROUND: url(../images/2.0/sm_m_ctn_bg2.jpg) no-repeat center 150px; PADDING-BOTTOM: 30px; WIDTH: 772px; PADDING-TOP: 20px
+}
+DIV#pservice_center {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(../images/2.0/l_service_bg.gif) no-repeat left top; PADDING-BOTTOM: 0px; MARGIN: 6px 0px 0px 14px; WIDTH: 188px; PADDING-TOP: 0px
+}
+DIV#pservice_center DIV.tlinks {
+	PADDING-TOP: 25px
+}
+DIV#pservice_center DIV.t_link {
+	TEXT-ALIGN: center
+}
+DIV#pservice_center DIV.t_link A {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; BACKGROUND: #000; PADDING-BOTTOM: 3px; MARGIN: 0px 5px; COLOR: #fff; PADDING-TOP: 3px
+}
+DIV#pservice_center DIV.t_link A:hover {
+	COLOR: #8cea8f
+}
+DIV#p_s_conts {
+	PADDING-RIGHT: 18px; PADDING-LEFT: 18px; PADDING-BOTTOM: 13px; MARGIN: 8px; PADDING-TOP: 13px
+}
+DIV#p_s_conts DIV.p_safe {
+	PADDING-LEFT: 18px; LINE-HEIGHT: 20px
+}
+DIV#p_s_conts DIV.p_chenmi {
+	PADDING-LEFT: 18px; LINE-HEIGHT: 20px
+}
+DIV#p_s_conts DIV.p_kefu {
+	PADDING-LEFT: 18px; LINE-HEIGHT: 20px
+}
+DIV#p_s_conts DIV.p_kefuMail {
+	PADDING-LEFT: 18px; LINE-HEIGHT: 20px
+}
+DIV#p_s_conts DIV.p_safe {
+	BACKGROUND: url(../images/2.0/l_s_01.gif) no-repeat left 2px
+}
+DIV#p_s_conts DIV.p_chenmi {
+	BACKGROUND: url(../images/2.0/l_s_02.gif) no-repeat left 2px
+}
+DIV#p_s_conts DIV.p_kefu {
+	BACKGROUND: url(../images/2.0/l_s_03.gif) no-repeat left 3px; COLOR: #ff0000
+}
+DIV#p_s_conts DIV.p_kefuMail {
+	FONT-WEIGHT: bold; COLOR: #ff0000; FONT-FAMILY: GB2312
+}
+DIV#p_s_conts DIV.p_kefuMail A {
+	COLOR: #ff0000
+}
+DIV#p_online_FAQ {
+	TEXT-ALIGN: center
+}
+#link_btn {
+	MARGIN: -40px auto 0px 470px; WIDTH: 100px; HEIGHT: 50px
+}
+#link_btn A {
+	MARGIN: 1px auto 0px -55px; WIDTH: 100px; HEIGHT: 50px
+}
+#cd {
+	MARGIN: 0px 0px 0px 8px
+}
+.fn-bgc-blue {
+	BACKGROUND-COLOR: #e5f5ff
+}
+.i-text {
+	BORDER-RIGHT: #9c9c9c 1px solid; BORDER-TOP: #9c9c9c 1px solid; BORDER-LEFT: #9c9c9c 1px solid; BORDER-BOTTOM: #9c9c9c 1px solid; FONT-FAMILY: Tahoma
+}
+INPUT.i-text {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 4px; WIDTH: 170px; PADDING-TOP: 4px
+}
+INPUT.i-text-s {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 1px; LINE-HEIGHT: 14px; PADDING-TOP: 3px; HEIGHT: 15px
+}
+INPUT.i-text-authcode {
+	WIDTH: 45px
+}
+.fm-item INPUT.i-text-gray {
+	COLOR: #b2b2b2
+}
+INPUT.i-text-gray {
+	COLOR: #b2b2b2
+}
+.fm-item {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 170px; PADDING-BOTTOM: 5px; PADDING-TOP: 0px; _padding: 0 5px 6px 170px; _display: inline-block
+}
+.fm-part {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.fm-item .i-text {
+	VERTICAL-ALIGN: -5px
+}
+.fm-item .com-search .i-text {
+	VERTICAL-ALIGN: middle
+}
+.fm-item .c-editable .i-text {
+	VERTICAL-ALIGN: middle
+}
+.fm-item .fm-label {
+	FONT-SIZE: 12px; FLOAT: left; MARGIN-LEFT: -170px; WIDTH: 170px; PADDING-TOP: 4px; TEXT-ALIGN: right
+}
+.fm-label .required {
+	FONT-SIZE: 12px; COLOR: #f00; MARGIN-RIGHT: 6px; FONT-FAMILY: SimSun
+}
+.fm-item .i-text {
+	FONT-SIZE: 11px; COLOR: #000; _font-size: 12px
+}
+.i-text:hover {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid
+}
+.i-textarea:hover {
+	BORDER-RIGHT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-BOTTOM: #000 1px solid
+}
+.i-text:focus {
+	BORDER-RIGHT: #68acff 1px solid; BORDER-TOP: #68acff 1px solid; BORDER-LEFT: #68acff 1px solid; BORDER-BOTTOM: #68acff 1px solid; outline: 1px aqua solid
+}
+.i-textarea:focus {
+	BORDER-RIGHT: #68acff 1px solid; BORDER-TOP: #68acff 1px solid; BORDER-LEFT: #68acff 1px solid; BORDER-BOTTOM: #68acff 1px solid; outline: 1px aqua solid
+}
+.fm-item SPAN.t-explain {
+	FONT-SIZE: 12px; MARGIN-LEFT: 7px
+}
+.fm-item DIV.t-explain {
+	FONT-SIZE: 12px
+}
+.fm-item .fm-explain {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; COLOR: #b2b2b2; LINE-HEIGHT: 22px; PADDING-TOP: 5px; _margin: -1px 0 0 3px
+}
+.fm-item .fm-list {
+	FLOAT: left
+}
+.fm-item .fm-link {
+	MARGIN-LEFT: 4px; _display: inline-block
+}
+.fm-item .fm-link A:link {
+	FONT-SIZE: 12px; COLOR: #3d86e5
+}
+.fm-item .fm-link A:visited {
+	FONT-SIZE: 12px; COLOR: #3d86e5
+}
+.fm-item .i-file {
+	FONT-SIZE: 12px; VERTICAL-ALIGN: middle; WIDTH: 188px; LINE-HEIGHT: 25px; HEIGHT: 25px; _width: 241px
+}
+.fm-item STRONG {
+	COLOR: #f60
+}
+.fm-item SELECT {
+	FONT-SIZE: 12px
+}
+.fm-item .btn {
+	MARGIN: 15px 5px 0px 0px; VERTICAL-ALIGN: baseline; _margin-left: 3px
+}
+.fm-hover .i-text {
+	BORDER-RIGHT: #727272 1px solid; BORDER-TOP: #727272 1px solid; BORDER-LEFT: #727272 1px solid; BORDER-BOTTOM: #727272 1px solid
+}
+.fm-hover .i-textarea {
+	BORDER-RIGHT: #727272 1px solid; BORDER-TOP: #727272 1px solid; BORDER-LEFT: #727272 1px solid; BORDER-BOTTOM: #727272 1px solid
+}
+.fm-focus .i-text {
+	BORDER-RIGHT: #68acff 1px solid; BORDER-TOP: #68acff 1px solid; BORDER-LEFT: #68acff 1px solid; CURSOR: text; BORDER-BOTTOM: #68acff 1px solid; outline: 1px aqua solid
+}
+.fm-focus .i-textarea {
+	BORDER-RIGHT: #68acff 1px solid; BORDER-TOP: #68acff 1px solid; BORDER-LEFT: #68acff 1px solid; CURSOR: text; BORDER-BOTTOM: #68acff 1px solid; outline: 1px aqua solid
+}
+.fm-focus .i-text {
+	BORDER-RIGHT: #95ddff 2px solid; PADDING-RIGHT: 1px; BORDER-TOP: #95ddff 2px solid; PADDING-LEFT: 1px; PADDING-BOTTOM: 3px; BORDER-LEFT: #95ddff 2px solid; PADDING-TOP: 3px; BORDER-BOTTOM: #95ddff 2px solid
+}
+.fm-focus .i-textarea {
+	BORDER-RIGHT: #95ddff 2px solid; PADDING-RIGHT: 1px; BORDER-TOP: #95ddff 2px solid; PADDING-LEFT: 4px; PADDING-BOTTOM: 0px; BORDER-LEFT: #95ddff 2px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #95ddff 2px solid; HEIGHT: 76px; _padding: 0 1px 0 4px; _height: 73px
+}
+.fm-focus .fm-explain {
+	COLOR: #4d4d4d
+}
+.fm-hover .fm-explain {
+	COLOR: #4d4d4d
+}
+.top_1 {
+	MIN-WIDTH: 1002px; MARGIN: 0px; TEXT-ALIGN: center
+}
+.top_2 {
+	MIN-WIDTH: 162px; DISPLAY: inline; FLOAT: left; MARGIN-LEFT: 87px
+}
+.top_3 {
+	MIN-WIDTH: 162px; DISPLAY: inline; FLOAT: left
+}
+.top_4 {
+	MIN-WIDTH: 162px; DISPLAY: inline; FLOAT: right; MARGIN-RIGHT: 85px
+}
+.top_5 {
+	MIN-WIDTH: 162px; DISPLAY: inline; FLOAT: right
+}
+.wel {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 60px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+.f_l {
+	FLOAT: left
+}
+.f_r {
+	FLOAT: right
+}
+.line {
+	BACKGROUND: url(../images/2.0/line1.gif); WIDTH: 772px; HEIGHT: 20px
+}
+.kg {
+	PADDING-TOP: 10px
+}
+.tab {
+	PADDING-LEFT: 200px; COLOR: #b2b2b2
+}
+* HTML .tab {
+	PADDING-LEFT: 190px; COLOR: #b2b2b2
+}
+* + HTML .tab {
+	PADDING-LEFT: 190px; COLOR: #b2b2b2
+}
+.tl {
+	COLOR: #000; TEXT-DECORATION: none
+}
+.tlon {
+	COLOR: red; TEXT-DECORATION: underline
+}

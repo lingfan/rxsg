@@ -1,0 +1,39 @@
+var WebFunctions=function() {
+WebFunctions.initializeBase(this);
+this._timeout = 0;
+this._userContext = null;
+this._succeeded = null;
+this._failed = null;
+}
+WebFunctions.prototype={
+HelloWorld:function(succeededCallback, failedCallback, userContext) {
+return this._invoke(WebFunctions.get_path(), 'HelloWorld',false,{},succeededCallback,failedCallback,userContext); },
+CheckBox_ChangeStatus:function(fOptName,fID,fNewValue,succeededCallback, failedCallback, userContext) {
+return this._invoke(WebFunctions.get_path(), 'CheckBox_ChangeStatus',false,{fOptName:fOptName,fID:fID,fNewValue:fNewValue},succeededCallback,failedCallback,userContext); },
+GridView_DeleteRow:function(fOptName,fID,succeededCallback, failedCallback, userContext) {
+return this._invoke(WebFunctions.get_path(), 'GridView_DeleteRow',false,{fOptName:fOptName,fID:fID},succeededCallback,failedCallback,userContext); },
+GetObjectValue:function(fOptName,fID,succeededCallback, failedCallback, userContext) {
+return this._invoke(WebFunctions.get_path(), 'GetObjectValue',false,{fOptName:fOptName,fID:fID},succeededCallback,failedCallback,userContext); },
+GetDataList:function(fOptName,fID,succeededCallback, failedCallback, userContext) {
+return this._invoke(WebFunctions.get_path(), 'GetDataList',false,{fOptName:fOptName,fID:fID},succeededCallback,failedCallback,userContext); },
+CheckUserInput:function(fOptName,fID,succeededCallback, failedCallback, userContext) {
+return this._invoke(WebFunctions.get_path(), 'CheckUserInput',false,{fOptName:fOptName,fID:fID},succeededCallback,failedCallback,userContext); }}
+WebFunctions.registerClass('WebFunctions',Sys.Net.WebServiceProxy);
+WebFunctions._staticInstance = new WebFunctions();
+WebFunctions.set_path = function(value) { WebFunctions._staticInstance._path = value; }
+WebFunctions.get_path = function() { return WebFunctions._staticInstance._path; }
+WebFunctions.set_timeout = function(value) { WebFunctions._staticInstance._timeout = value; }
+WebFunctions.get_timeout = function() { return WebFunctions._staticInstance._timeout; }
+WebFunctions.set_defaultUserContext = function(value) { WebFunctions._staticInstance._userContext = value; }
+WebFunctions.get_defaultUserContext = function() { return WebFunctions._staticInstance._userContext; }
+WebFunctions.set_defaultSucceededCallback = function(value) { WebFunctions._staticInstance._succeeded = value; }
+WebFunctions.get_defaultSucceededCallback = function() { return WebFunctions._staticInstance._succeeded; }
+WebFunctions.set_defaultFailedCallback = function(value) { WebFunctions._staticInstance._failed = value; }
+WebFunctions.get_defaultFailedCallback = function() { return WebFunctions._staticInstance._failed; }
+WebFunctions.set_path("/WebService/WebFunctions.asmx");
+WebFunctions.HelloWorld= function(onSuccess,onFailed,userContext) {WebFunctions._staticInstance.HelloWorld(onSuccess,onFailed,userContext); }
+WebFunctions.CheckBox_ChangeStatus= function(fOptName,fID,fNewValue,onSuccess,onFailed,userContext) {WebFunctions._staticInstance.CheckBox_ChangeStatus(fOptName,fID,fNewValue,onSuccess,onFailed,userContext); }
+WebFunctions.GridView_DeleteRow= function(fOptName,fID,onSuccess,onFailed,userContext) {WebFunctions._staticInstance.GridView_DeleteRow(fOptName,fID,onSuccess,onFailed,userContext); }
+WebFunctions.GetObjectValue= function(fOptName,fID,onSuccess,onFailed,userContext) {WebFunctions._staticInstance.GetObjectValue(fOptName,fID,onSuccess,onFailed,userContext); }
+WebFunctions.GetDataList= function(fOptName,fID,onSuccess,onFailed,userContext) {WebFunctions._staticInstance.GetDataList(fOptName,fID,onSuccess,onFailed,userContext); }
+WebFunctions.CheckUserInput= function(fOptName,fID,onSuccess,onFailed,userContext) {WebFunctions._staticInstance.CheckUserInput(fOptName,fID,onSuccess,onFailed,userContext); }

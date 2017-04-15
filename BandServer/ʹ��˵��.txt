@@ -1,0 +1,3 @@
+<一>将banduser 文件夹下的数据库 拷贝到mysql5.1\date\bloodwar中
+<二>将本文件夹放到server文件夹下
+点击快捷键就可以进入相应的设置了

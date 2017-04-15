@@ -1,0 +1,67 @@
+*{ word-wrap:break-word; outline:none; }
+html, body{ height:100%;}
+body, div, td, input, textarea, select, button{  font:normal 12px Tahoma, Verdana, Arial;}
+body, div, ul, dl, dt, dd, p, h1, h2, h3, h4, h5, h6, form, fieldset { margin:0; padding:0; }
+body{ color:#333; background:#fff no-repeat 50% 0;}
+ul,li{ list-style:none; }
+h1, h2, h3, h4, h5, h6{ font-size:12px; }
+em, cite, th, i{ font-style:normal; font-weight:normal;}
+table{ border-collapse:collapse;}
+th{ text-align:left; }
+label{ cursor:pointer; }
+a{ color:#333; text-decoration:none; font-family:Verdana;}
+	a:hover { text-decoration:underline; }
+	a img{ border:none; }
+.clear{ clear:both;}
+.fl{ float:left;} .fr{ float:right;}
+
+#header{ height:120px; background:url(images/top_bgs.gif) repeat-x top;}
+	#logo{ width:550px; margin:auto; height:120px; background:url(Images/Logo.jpg) no-repeat 50% 50%;}
+#wrapper{ width:550px; margin:auto; clear:both;}
+	#menu{ margin:10px auto; position:relative; overflow:hidden; zoom:1;}
+		#menu ul{ float:left; position:relative; left:50%;}
+		#menu li{ margin:auto 1px; float:left; position:relative; right:50%; background:url(Images/menu.gif) no-repeat 100% -108px;}
+		#menu li a{ float:left; display:block; padding:0 24px; height:36px; color:#5481c5; font:bold 14px/36px Tahoma; background:url(Images/menu.gif) no-repeat 0 -72px;}
+		#menu li.current{ background-position:100% -36px;} 
+		#menu li.current a,#menu li.current a:hover{ text-decoration:none; color:#fff; background-position:0 0;}
+	#info{ margin:6px auto;}
+	.tags{ height:39px; overflow:hidden; zoom:1; margin-bottom:-6px; position:relative; z-index:5;}
+		.tags li{ float:left; height:39px; line-height:39px; background:url(Images/tag.gif) no-repeat; padding-right:35px; color:#87a6d6;}
+		.tags .at{ background-position:100% -39px;}
+		.tags .one{ background-position:100% -117px;}
+		.tags .at em{ display:block; background:url(Images/tag.gif) no-repeat 0 0; padding-left:15px; font-size:14px; font-weight:bold; color:#114daf;}
+		.tags .ab{ background-position:100% -78px; }
+	
+	.rollBox{ clear:both; position:relative; z-index:1; _height:0;}
+		.rollBox i{ position:absolute; width:11px; height:11px; overflow:hidden; background:url(Images/rollbox.gif) no-repeat;}
+		.rollBox i.tr{ top:0; right:0; background-position:-11px 0;}
+		.rollBox i.bl{ bottom:0; left:0; background-position:-22px 0;}
+		.rollBox i.br{ bottom:0; right:0; background-position:-33px 0;}
+		.rollBox .cont{ border:7px solid #d7e7ff; padding:6px;}
+	.pay_list .rollBox{ margin-bottom:5px;}
+		.pay_item{ padding:4px 10px; overflow:hidden; zoom:1;}
+			.pay_item .st{ float:left; width:28%;}
+			.pay_item .content{ float:left; width:71%; line-height:1.4; color:#545454;}
+			.pay_item .content p{ margin:4px auto;}
+	.tb_form{ margin:10px auto; width:80%;}
+		.tb_form td,.tb_form th{ padding:6px;}
+		.tb_form th{ text-align:right; padding-right:15px; font-size:14px;}
+	.comment{ margin:12px 12px auto; line-height:1.7; padding:12px 10px; border-top:1px dotted #999;}
+		.comment dt{ font-size:14px; font-weight:bold; color:#f60;}
+		.comment dd{  text-indent:2em; margin:4px auto;}
+		
+#footer{ clear:both; text-align:center; padding:15px 0; color:#555;}
+	#footer p{ margin:8px auto;}
+	#footer a{ text-decoration:underline; margin:0 5px; color:#555}
+	#footer .fgx{ color:#999; margin:0 10px;}
+		
+	input.txt{ font-size:14px; padding:2px; border:1px solid #9fafbb; vertical-align:middle; margin:0 5px 0 0;}
+	.next{ width:119px; height:24px; background:url(Images/bt_next.gif) no-repeat; font:bold 14px/24px Tahoma; border:0; cursor:pointer; margin-top:15px;}
+	
+	.act{ text-decoration:underline; color:#069; margin-right:8px;}
+	.fc{ text-align:center;}
+	.f14{ font-size:14px;}
+	.ftr{ color:#f00;}
+	.ftgn{ color:#42990e;}
+	.fto{ color:#f60;}
+	.ftgr{ color:#454545;}

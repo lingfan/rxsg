@@ -1,0 +1,421 @@
+array (
+  0 => 
+  array (
+    'cid' => '189103',
+    'uid' => '1010',
+    'name' => '新城池',
+    'type' => '5',
+    'state' => '2',
+    'chiefhid' => '0',
+    'province' => '10',
+    'discardtime' => '0',
+    'counsellorid' => '0',
+    'generalid' => '0',
+    'conscript' => '0',
+    'is_special' => '0',
+    'spacialSid' => 0,
+  ),
+  1 => 
+  array (
+    0 => 
+    array (
+      'uid' => '1010',
+      'name' => 'dddddd',
+      'passtype' => 'myrxsg',
+      'passport' => 'test333',
+      'state' => '1',
+      'group' => '0',
+      'sex' => '0',
+      'face' => '0',
+      'prestige' => '0',
+      'warprestige' => '0',
+      'money' => '88863',
+      'rank' => '2',
+      'lastcid' => '189103',
+      'union_id' => '0',
+      'union_pos' => '0',
+      'nobility' => '0',
+      'officepos' => '0',
+      'flagchar' => 'd',
+      'regtime' => '1491530481',
+      'domainid' => '0',
+      'war_attack_prestige' => '0',
+      'war_defence_prestige' => '0',
+      'gift' => '0',
+      'last_pay' => '0',
+      'honour' => '1000',
+      'armor_column' => '50',
+      'achivement_count' => '0',
+      'achivement_point' => '0',
+      'openLottery' => '1',
+      'isAdult' => 1,
+      'onLineTime' => 0,
+      'openIndex' => '1',
+      'designations' => 
+      array (
+      ),
+      'curDesigName' => false,
+      'curDesigid' => false,
+      'currentYear' => 
+      array (
+        'count' => 0,
+      ),
+    ),
+    1 => 
+    array (
+      'cid' => '189103',
+      'morale' => '90',
+      'morale_stable' => '90',
+      'complaint' => '0',
+      'tax' => '10',
+      'wood' => '2400',
+      'wood_add' => '100',
+      'wood_max' => '10000',
+      'rock' => '2500',
+      'rock_add' => '100',
+      'rock_max' => '10000',
+      'iron' => '4450',
+      'iron_add' => '100',
+      'iron_max' => '10000',
+      'food' => '4500',
+      'food_add' => '100',
+      'food_army_use' => '0',
+      'food_max' => '10000',
+      'gold' => '5000',
+      'hero_fee' => '0',
+      'gold_max' => '120000000',
+      'gold_rate' => '100',
+      'people' => '236',
+      'people_stable' => '360',
+      'people_working' => '0',
+      'people_building' => '0',
+      'people_max' => '400',
+      'chief_loyalty' => '0',
+      'changing' => '1',
+      'lastupdate' => '1491530953',
+      'vacation' => '0',
+      'forbidden' => '0',
+    ),
+    2 => 
+    array (
+      0 => 
+      array (
+        'hid' => '80228',
+        'uid' => '1010',
+        'name' => 'dddddd',
+        'npcid' => '0',
+        'sex' => '0',
+        'face' => '0',
+        'cid' => '189103',
+        'state' => '0',
+        'level' => '1',
+        'exp' => '0',
+        'command_base' => '50',
+        'command_add_on' => '0',
+        'affairs_base' => '1',
+        'bravery_base' => '1',
+        'wisdom_base' => '1',
+        'affairs_add' => '0',
+        'bravery_add' => '0',
+        'wisdom_add' => '0',
+        'affairs_add_on' => '0',
+        'bravery_add_on' => '0',
+        'wisdom_add_on' => '0',
+        'force_max_add_on' => '0',
+        'energy_max_add_on' => '0',
+        'speed_add_on' => '0',
+        'attack_add_on' => '0',
+        'defence_add_on' => '0',
+        'loyalty' => '100',
+        'herotype' => '1000',
+        'hero_health' => '0',
+        'force' => '150',
+        'force_max' => '150',
+        'energy' => '150',
+        'energy_max' => '150',
+      ),
+    ),
+    3 => 
+    array (
+      0 => 
+      array (
+        'cid' => '189103',
+        'sid' => '1',
+        'count' => '0',
+      ),
+      1 => 
+      array (
+        'cid' => '189103',
+        'sid' => '2',
+        'count' => '0',
+      ),
+      2 => 
+      array (
+        'cid' => '189103',
+        'sid' => '3',
+        'count' => '0',
+      ),
+      3 => 
+      array (
+        'cid' => '189103',
+        'sid' => '4',
+        'count' => '0',
+      ),
+      4 => 
+      array (
+        'cid' => '189103',
+        'sid' => '5',
+        'count' => '0',
+      ),
+      5 => 
+      array (
+        'cid' => '189103',
+        'sid' => '6',
+        'count' => '0',
+      ),
+      6 => 
+      array (
+        'cid' => '189103',
+        'sid' => '7',
+        'count' => '0',
+      ),
+      7 => 
+      array (
+        'cid' => '189103',
+        'sid' => '8',
+        'count' => '0',
+      ),
+      8 => 
+      array (
+        'cid' => '189103',
+        'sid' => '9',
+        'count' => '0',
+      ),
+      9 => 
+      array (
+        'cid' => '189103',
+        'sid' => '10',
+        'count' => '0',
+      ),
+      10 => 
+      array (
+        'cid' => '189103',
+        'sid' => '11',
+        'count' => '0',
+      ),
+      11 => 
+      array (
+        'cid' => '189103',
+        'sid' => '12',
+        'count' => '0',
+      ),
+      12 => 
+      array (
+        'cid' => '189103',
+        'sid' => '45',
+        'count' => '0',
+      ),
+      13 => 
+      array (
+        'cid' => '189103',
+        'sid' => '46',
+        'count' => '0',
+      ),
+      14 => 
+      array (
+        'cid' => '189103',
+        'sid' => '47',
+        'count' => '0',
+      ),
+      15 => 
+      array (
+        'cid' => '189103',
+        'sid' => '48',
+        'count' => '0',
+      ),
+      16 => 
+      array (
+        'cid' => '189103',
+        'sid' => '49',
+        'count' => '0',
+      ),
+      17 => 
+      array (
+        'cid' => '189103',
+        'sid' => '50',
+        'count' => '0',
+      ),
+    ),
+    4 => 
+    array (
+      0 => 
+      array (
+        'cid' => '189103',
+        'did' => '1',
+        'count' => '0',
+      ),
+      1 => 
+      array (
+        'cid' => '189103',
+        'did' => '2',
+        'count' => '0',
+      ),
+      2 => 
+      array (
+        'cid' => '189103',
+        'did' => '3',
+        'count' => '0',
+      ),
+      3 => 
+      array (
+        'cid' => '189103',
+        'did' => '4',
+        'count' => '0',
+      ),
+      4 => 
+      array (
+        'cid' => '189103',
+        'did' => '5',
+        'count' => '0',
+      ),
+    ),
+    5 => 
+    array (
+      'uid' => '1010',
+      'troops' => '0',
+      'enemy' => '0',
+      'report' => '0',
+      'mail' => '1',
+      'friend' => '0',
+      'task' => '1',
+      'union' => '0',
+      'battle' => '0',
+    ),
+  ),
+  2 => 
+  array (
+    0 => 
+    array (
+      'id' => '1496302',
+      'cid' => '189103',
+      'xy' => '112',
+      'bid' => '5',
+      'level' => '1',
+      'state' => '0',
+      'state_starttime' => '1491611887',
+      'state_endtime' => '1491611902',
+      'bname' => '民房',
+      'buildingDescription' => '民房为城池中的人口提供住所，吸引更多的人前来定居。',
+      'level_description' => '等级1的民房可容纳人口100。',
+      'using_people' => '0',
+      'state_timeleft' => -138712,
+    ),
+    1 => 
+    array (
+      'id' => '1496297',
+      'cid' => '189103',
+      'xy' => '120',
+      'bid' => '6',
+      'level' => '15',
+      'state' => '0',
+      'state_starttime' => '0',
+      'state_endtime' => '0',
+      'bname' => '官府',
+      'buildingDescription' => '官府是管理城池的中心，在官府中发布调税、安抚、征收命令。官府达到10级后需要通过合城升级，每升1级，黄金容量和附属野地上限增加。',
+      'level_description' => '等级15的官府可以占领15个附属野地，城外有39个资源空地，资源地上限升到15级，黄金容量上限12000万。',
+      'using_people' => '1210',
+      'state_timeleft' => -1491750614,
+    ),
+    2 => 
+    array (
+      'id' => '1496300',
+      'cid' => '189103',
+      'xy' => '122',
+      'bid' => '5',
+      'level' => '1',
+      'state' => '0',
+      'state_starttime' => '1491611859',
+      'state_endtime' => '1491611874',
+      'bname' => '民房',
+      'buildingDescription' => '民房为城池中的人口提供住所，吸引更多的人前来定居。',
+      'level_description' => '等级1的民房可容纳人口100。',
+      'using_people' => '0',
+      'state_timeleft' => -138740,
+    ),
+    3 => 
+    array (
+      'id' => '1496299',
+      'cid' => '189103',
+      'xy' => '132',
+      'bid' => '5',
+      'level' => '1',
+      'state' => '0',
+      'state_starttime' => '1491611857',
+      'state_endtime' => '1491611872',
+      'bname' => '民房',
+      'buildingDescription' => '民房为城池中的人口提供住所，吸引更多的人前来定居。',
+      'level_description' => '等级1的民房可容纳人口100。',
+      'using_people' => '0',
+      'state_timeleft' => -138742,
+    ),
+    4 => 
+    array (
+      'id' => '1496303',
+      'cid' => '189103',
+      'xy' => '140',
+      'bid' => '8',
+      'level' => '1',
+      'state' => '0',
+      'state_starttime' => '1491612303',
+      'state_endtime' => '1491612309',
+      'bname' => '校场',
+      'buildingDescription' => '校场是集结军队的场所。在这里执行出征、演习命令，查看军队状况、了解情报，调整出征和守城战术。校场等级越高，能够同时出征的军队和人数越多。',
+      'level_description' => '等级1的校场可以同时出征1支军队，每次出征人数1万。',
+      'using_people' => '2',
+      'state_timeleft' => -138305,
+    ),
+    5 => 
+    array (
+      'id' => '1496301',
+      'cid' => '189103',
+      'xy' => '142',
+      'bid' => '5',
+      'level' => '1',
+      'state' => '0',
+      'state_starttime' => '1491611885',
+      'state_endtime' => '1491611900',
+      'bname' => '民房',
+      'buildingDescription' => '民房为城池中的人口提供住所，吸引更多的人前来定居。',
+      'level_description' => '等级1的民房可容纳人口100。',
+      'using_people' => '0',
+      'state_timeleft' => -138714,
+    ),
+    6 => 
+    array (
+      'id' => '1496298',
+      'cid' => '189103',
+      'xy' => '199',
+      'bid' => '20',
+      'level' => '15',
+      'state' => '0',
+      'state_starttime' => '0',
+      'state_endtime' => '0',
+      'bname' => '城墙',
+      'buildingDescription' => '围绕城池建造的城墙，是保护城池的屏障。城墙保护城内的军队免遭伤害，增加守城远程兵种的射程。在城墙中可以建造各种城防工事。',
+      'level_description' => '等级15的城墙耐久1500万，增加守城军队防御150%、城防空间150000。',
+      'using_people' => '960',
+      'state_timeleft' => -1491750614,
+    ),
+  ),
+  3 => 
+  array (
+  ),
+  4 => 
+  array (
+    0 => 
+    array (
+      'province' => '10',
+      'jun' => '5',
+    ),
+  ),
+)

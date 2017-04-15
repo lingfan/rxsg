@@ -1,0 +1,24 @@
+<?php
+	$key_rand=562;
+	$defaultPassArray=array('1'=>'nufgwvnl','2'=>'kqxcnocq','3'=>'ohowqeyi','4'=>'vepzbtia','5'=>'etguvtuz'
+,'6'=>'jhmf4P','7'=>'kvhojeam','8'=>'ihsndpub','9'=>'btsfhmqw','10'=>'qeiqtvox'
+,'11'=>'bontpqpd','12'=>'iyiptytp','13'=>'lhsegsyh','14'=>'koslcyhe','15'=>'evhliqrh'
+,'16'=>'vclewufq','17'=>'ihfptlue','18'=>'qlotzomy','19'=>'vpnqndhy','20'=>'vsbflede'
+,'21'=>'ufnsrdpe','22'=>'wyoiqfbj','23'=>'gigcjcuc','24'=>'euoapejv','25'=>'rzekymtn'
+,'26'=>'uweWJI','27'=>'mpytcvih','28'=>'josbkeuw','29'=>'qhxvzcyu','30'=>'jchlnqvb'
+,'31'=>'oaxatlrf','32'=>'atgmuqjv','33'=>'ukyuvyzs','34'=>'bkirpcsh','35'=>'gsebpquq'
+,'36'=>'ybghyrzf','37'=>'mjyfqegz','38'=>'vrgvqdpa','39'=>'bxcfaobf','40'=>'dohslprc'
+,'41'=>'iqbuvgir','42'=>'mhperzfc','43'=>'qnvyzvij','44'=>'sjuatqmj','45'=>'vlzuelrq'
+,'46'=>'vfsxyfyf','47'=>'yixcxwej','48'=>'uokcjkdc','49'=>'prunromg','50'=>'tghdwslc'
+,'51'=>'giwj0q','52'=>'cvobtxda','53'=>'gvijlywb','54'=>'uhewzeub','55'=>'gdpjzcgj'
+,'56'=>'qfoqxplz','57'=>'nisvsjyd','58'=>'pcqtkzhl','59'=>'xrkulz','60'=>'inawhm'
+,'61'=>'wolgceif','62'=>'mutaeral','63'=>'ehxtvwbc','64'=>'zwlcvlfu','65'=>'xsde0g'
+,'66'=>'aktkwgxh','67'=>'jxjlyqlr','68'=>'ygyctkld','69'=>'smnihnys','70'=>'tnadnyxj'
+,'71'=>'yknkna','72'=>'kdzoewfz','73'=>'bskepjox','74'=>'ydujsejy','75'=>'bkeojrcb'
+,'76'=>'nmo2yt','77'=>'muoksrqu','78'=>'bdkxjatl','79'=>'hdlncokc','80'=>'oiedqfix'
+,'81'=>'sogvksgi','82'=>'pdvpkbdi','83'=>'ebwmqgzx','84'=>'mhkmbhuc','85'=>'nxjnsepw'
+,'86'=>'hwvsowig','87'=>'tdtyqlbf','88'=>'yudhywto','89'=>'tztmckxo','90'=>'chfarhwa'
+,'91'=>'xedqatlh','92'=>'qjxfyxka','93'=>'ltotmvrg','94'=>'jagpkhyj','95'=>'fistKN'
+,'96'=>'gmdquosb','97'=>'nmonofub','98'=>'aiyabfjd','99'=>'tahcgnjh','100'=>'ropuefwp'
+);			 
+?>

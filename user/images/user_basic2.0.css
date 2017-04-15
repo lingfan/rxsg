@@ -1,0 +1,93 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; FONT: 12px/18px "????"; COLOR: #222d34; PADDING-TOP: 0px
+}
+TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: "????"! important
+}
+FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: "????"! important
+}
+SPAN {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: "????"! important
+}
+FONT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; FONT-FAMILY: "????"! important
+}
+IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.clr {
+	CLEAR: both
+}
+.logo {
+	MARGIN: 0px auto; WIDTH: 302px; HEIGHT: 211px
+}
+DIV#bottom_copyRight {
+	CLEAR: both; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(../images/userimg/sm/bottom_bg.jpg) no-repeat center top; PADDING-BOTTOM: 0px; MARGIN: 0px auto; WIDTH: 1002px; PADDING-TOP: 0px; HEIGHT: 127px
+}
+DIV#bottom_link {
+	PADDING-TOP: 5px; TEXT-ALIGN: center
+}
+DIV#bottom_link IMG {
+	MARGIN: 0px 3px
+}
+.icp_text {
+	MARGIN-TOP: 1px; MARGIN-LEFT: 400px; COLOR: #fff; LINE-HEIGHT: 21px; HEIGHT: 97px; TEXT-ALIGN: left
+}
+.icp_text A {
+	COLOR: #fff
+}
+.icp_text A:hover {
+	COLOR: #8cea8f
+}
+.impor_text {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 20px; PADDING-TOP: 20px; TEXT-ALIGN: center
+}
+.video_pic {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 14px; TEXT-ALIGN: center
+}
+.user_input1 {
+	BORDER-RIGHT: #6a7c8d 1px solid; BORDER-TOP: #6a7c8d 1px solid; BORDER-LEFT: #6a7c8d 1px solid; WIDTH: 177px; BORDER-BOTTOM: #6a7c8d 1px solid
+}
+.user_randcode1 {
+	BORDER-RIGHT: #6a7c8d 1px solid; BORDER-TOP: #6a7c8d 1px solid; BORDER-LEFT: #6a7c8d 1px solid; WIDTH: 36px; BORDER-BOTTOM: #6a7c8d 1px solid
+}
+.note {
+	FONT-SIZE: 12px; COLOR: #b2b2b2
+}
+.fontcolor3 {
+	FONT-SIZE: 12px; COLOR: #666666
+}
+.noteError {
+	FONT-SIZE: 12px; COLOR: #ff0000
+}
+.noteOK {
+	FONT-SIZE: 12px; COLOR: #01c842
+}
+#form1 .ctn .ctn_right .main_c .font1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #0033cc; FONT-FAMILY: "????"
+}
+#form1 .ctn .ctn_right .main_c .font1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #0033cc; FONT-FAMILY: "????"
+}
+.font2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "????"
+}
+.font3 {
+	FONT-SIZE: 12px; FONT-FAMILY: "????"; TEXT-DECORATION: underline
+}
+.font3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #0036ff; FONT-FAMILY: "????"
+}
+.font {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000; FONT-FAMILY: "????"
+}
+.zi {
+	FONT-SIZE: 12px; COLOR: #0036ff; FONT-FAMILY: "????"; TEXT-DECORATION: none
+}
+.red {
+	FONT-SIZE: 12px; COLOR: #ff0000; FONT-FAMILY: "????"
+}
+.bg {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; PADDING-LEFT: 5px; BORDER-LEFT: #999999 1px solid; WIDTH: 400px; PADDING-TOP: 5px; BORDER-BOTTOM: #999999 1px solid; BACKGROUND-COLOR: #f5f5f5; TEXT-ALIGN: left
+}

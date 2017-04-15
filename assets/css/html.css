@@ -1,0 +1,107 @@
+p
+{
+	paddingBottom: 10;
+	marginBottom: 10;
+	fontSize: 12px;
+	fontFamily: verdana;
+	leading: 3px;
+	color:#ffffff;
+}
+
+a
+{
+	fontFamily : verdana;
+	fontWeight: bold;
+	fontSize: 12;
+	color: #0066FF;
+	leading: 4;
+	textDecoration: underline;
+}
+
+.listItems
+{
+	paddingBottom: 10;
+	marginBottom: 10;
+	fontSize: 12px;
+	fontFamily: verdana;
+	leading: 3px;
+}
+
+.htmlCellText
+{
+	paddingBottom: 10;
+	marginBottom: 10;
+	fontSize: 18px;
+	fontFamily: verdana;
+}
+
+
+.htmlTableCaption
+{
+	textAlign: center;
+	fontWeight: bold;
+	paddingLeft: 10;
+	paddingTop: 1;
+	borderStyle: none;
+	fontSize: 12px;
+	fontFamily: verdana;
+	color:#ffffff;
+}
+
+.htmlTableReference
+{
+	fontWeight: bold;
+	paddingLeft: 1;
+	paddingTop: 1;
+	borderStyle: none;
+	fontSize: 12px;
+	fontFamily: verdana;
+}
+
+.h0
+{
+	fontFamily : verdana;
+	fontWeight: bold;
+	fontSize: 30;
+	leading: 2;
+	textAlign: center;
+	
+}
+
+
+.h1
+{
+	fontFamily : verdana;
+	fontWeight: bold;
+	fontSize: 24;
+	leading: 2;
+	
+}
+
+
+.h2
+{
+	fontFamily : verdana;
+	fontWeight: bold;
+	fontSize: 21;
+	leading: 2;
+	
+}
+
+.h3
+{
+	fontFamily : verdana;
+	fontWeight: bold;
+	fontSize: 18;
+	leading: 1;
+	
+}
+
+.h4
+{
+	fontFamily : verdana;
+	fontWeight: bold;
+	fontSize: 13;
+	leading: 1;
+	
+}

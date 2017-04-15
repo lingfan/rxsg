@@ -1,0 +1,38 @@
+/* CSS Document */
+
+*{ padding:0px; margin:0px;}
+body{ font-family:Arial, Helvetica, sans-serif; color:#8ea6b9; font-size:12px; background-color:#000}
+.fl{ float:left} .fr{ float:right;} .cl{ clear:both;} .tc{ text-align:center} .tr{ text-align:right}
+.zz{ margin-left:auto; margin-top:0px; margin-bottom:0px; margin-right:auto}
+ul,li{ list-style-type:none}
+a:link{ color:#ffea00; text-decoration:none;}
+a:visited { color: #ffea00; text-decoration:none;}
+a:hover { color: #fff; text-decoration:underline;}
+a:active { color: #fff; text-decoration:underline;}
+.kuan1{ width:200px;height:26px; line-height:26px; color:#000; border:1px solid #000; padding-left:8px;}
+
+.cent1{ height:110px; background:url(/user/images/dlOK_01.jpg) center top no-repeat}
+.cent2{ height:119px; background:url(/user/images/dlOK_02.jpg) center top no-repeat}
+.cent3{ height:207px; background:url(/user/images/dlOK_03.jpg) center top no-repeat; overflow:hidden;}
+   .login{ width:450px;}
+   .cent31{ padding:6px 0 0 145px;}
+   .cent32{ padding:13px 0 0 145px;}
+   .cent33{ padding:10px 0 15px 0}
+   .cent34{ padding:0 0 0 50px;}
+   .cent34 ul{}
+   .cent34 ul li{ float:left; width:89px; height:32px; padding:7px 0 0 0; background:url(/user/images/dlOK_09.jpg) center top no-repeat; text-align:center; font-size:14px;}
+.cent4{ height:153px; background:url(/user/images/dlOK_04.jpg) center top no-repeat;}
+   .cent41{ width:450px; height:85px; overflow:hidden; color:#000; padding:20px 0 0 0;}
+   .cent41 ul{}
+   .cent41 ul li{ line-height:27px; border-bottom:1px solid #000 }
+   .cent41 a:link, .cent41 a:visited{ color:#000; text-decoration:none}
+   .cent41 a:hover, .cent41 a:active{ color:#ff0000; text-decoration:none;}
+
+.cent5{ height:92px; background:url(/user/images/dlOK_13.jpg) center top no-repeat}
+.foot{ width:600px; height:55px; padding:15px 0 15px 50px;}
+  .foot1{}
+  .foot2{ width:477px; line-height:22px; padding:11px 0 0 4px; color:#b5b5b5}
+  .foot2 a:link, .foot2 a:visited{ color:#b5b5b5; text-decoration:none}
+  .foot2 a:hover, .foot2 a:active{ color:#b5b5b5; text-decoration: underline;}
+
+  
