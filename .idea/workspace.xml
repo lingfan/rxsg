@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="624fa511-a467-434d-9d8c-e031546199b8" name="Default" comment="" />
+    <ignored path="rxsg.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="rxsg" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="charge51.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/charge51.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Filters.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/amfphp/core/amf/app/Filters.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="106" column="5" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PageAbleResult.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/amfphp/core/amf/util/PageAbleResult.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Authenticate.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/amfphp/core/shared/util/Authenticate.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="90" column="13" selection-start-line="90" selection-start-column="13" selection-end-line="90" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TradeFunction.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/BandServer/TradeFunction.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding>
+                <marker date="1491316612898" expanded="true" signature="406:453" ph="select lastc... sys_user" />
+                <marker date="1491316612898" expanded="true" signature="701:770" ph="select sid f... sys_user_armor" />
+                <marker date="1491316612898" expanded="true" signature="887:1320" ph="insert into sys_user_armor_trade" />
+                <marker date="1491316612898" expanded="true" signature="1107:1319" ph="select sid,u... sys_user_armor" />
+                <marker date="1491316612898" expanded="true" signature="1339:1405" ph="delete from " />
+                <marker date="1491316612898" expanded="true" signature="1762:1815" ph="select money... sys_user" />
+                <marker date="1491316612898" expanded="true" signature="2029:2090" ph="select uid f... sys_user_armor_trade" />
+                <marker date="1491316612898" expanded="true" signature="2216:2610" ph="insert into sys_user_armor... " />
+                <marker date="1491316612898" expanded="true" signature="2415:2609" ph="select sid,$... sys_user_armor_trade" />
+                <marker date="1491316612898" expanded="true" signature="2629:2687" ph="delete from " />
+                <marker date="1491316612898" expanded="true" signature="2705:2783" ph="update sys_u... " />
+                <marker date="1491316612898" expanded="true" signature="2830:2879" ph="select lastc... sys_user" />
+                <marker date="1491316612898" expanded="true" signature="2936:3012" ph="update sys_u... " />
+                <marker date="1491316612898" expanded="true" signature="3184:3264" ph="select sid f... sys_user_armor_trade" />
+                <marker date="1491316612898" expanded="true" signature="3378:3788" ph="insert into sys_user_armor... " />
+                <marker date="1491316612898" expanded="true" signature="3577:3787" ph="select sid,u... sys_user_armor_trade" />
+                <marker date="1491316612898" expanded="true" signature="3807:3884" ph="delete from " />
+                <marker date="1491316612898" expanded="true" signature="4330:4447" ph="select a.*,c... sys_user_armor" />
+                <marker date="1491316612898" expanded="true" signature="4626:4686" ph="select count... sys_goods" />
+                <marker date="1491316612898" expanded="true" signature="4733:4792" ph="select count... sys_goods" />
+                <marker date="1491316612898" expanded="true" signature="4845:4904" ph="select count... sys_goods" />
+                <marker date="1491316612898" expanded="true" signature="5177:5247" ph="update sys_g... " />
+                <marker date="1491316612898" expanded="true" signature="5286:5355" ph="update sys_g... " />
+                <marker date="1491316612898" expanded="true" signature="5387:5456" ph="update sys_g... " />
+                <marker date="1491316612898" expanded="true" signature="5795:5842" ph="delete from " />
+                <marker date="1491316612898" expanded="true" signature="6251:6329" ph="update sys_u... " />
+                <marker date="1491316612898" expanded="true" signature="6734:6812" ph="update sys_u... " />
+                <marker date="1491316612898" expanded="true" signature="7203:7281" ph="update sys_u... " />
+                <marker date="1491316612898" expanded="true" signature="7447:7582" ph="update sys_u... " />
+                <marker date="1491316612898" expanded="true" signature="7842:7977" ph="update sys_u... " />
+                <marker date="1491316612898" expanded="true" signature="8075:8210" ph="update sys_u... " />
+                <marker date="1491316612898" expanded="true" signature="8592:8658" ph="select * fro... sys_city_hero" />
+                <marker date="1491316612898" expanded="true" signature="8778:9180" ph="insert into sys_city_hero_trade... " />
+                <marker date="1491316612898" expanded="true" signature="9203:9268" ph="delete from " />
+                <marker date="1491316612898" expanded="true" signature="9289:9338" ph="delete from " />
+                <marker date="1491316612898" expanded="true" signature="9362:9433" ph="update sys_u... " />
+                <marker date="1491316612898" expanded="true" signature="9626:9705" ph="select hid f... sys_city_hero_trade" />
+                <marker date="1491316612898" expanded="true" signature="9825:10562" ph="insert into sys_city_hero" />
+                <marker date="1491316612898" expanded="true" signature="10217:10561" ph="select hid,u... sys_city_hero_trade" />
+                <marker date="1491316612898" expanded="true" signature="10648:10720" ph="delete from " />
+                <marker date="1491316612898" expanded="true" signature="11064:11117" ph="select money... sys_user" />
+                <marker date="1491316612898" expanded="true" signature="11352:11409" ph="select uid f... sys_city_hero_trade" />
+                <marker date="1491316612898" expanded="true" signature="11523:12271" ph="insert into sys_city_hero" />
+                <marker date="1491316612898" expanded="true" signature="11915:12270" ph="select hid,$... sys_city_hero_trade" />
+                <marker date="1491316612898" expanded="true" signature="12290:12364" ph="delete from " />
+                <marker date="1491316612898" expanded="true" signature="12451:12523" ph="update sys_u... " />
+                <marker date="1491316612898" expanded="true" signature="12581:12654" ph="update sys_u... " />
+                <marker date="1491316612898" expanded="true" signature="13212:13464" ph="select sum(l... sys_city_hero" />
+                <marker date="1491316612898" expanded="true" signature="13543:13610" ph="update mem_c... " />
+                <marker date="1491316612898" expanded="true" signature="13686:13734" ph="select * fro... sys_city_hero" />
+                <marker date="1491316612898" expanded="true" signature="14052:14192" ph="insert into mem_hero_blood... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TradeMain.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/BandServer/TradeMain.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding>
+                <marker date="1491316617875" expanded="true" signature="165:227" ph="select uid,n... sys_user" />
+                <marker date="1491316617875" expanded="true" signature="281:349" ph="select count... sys_goods" />
+                <marker date="1491316617875" expanded="true" signature="391:458" ph="select count... sys_goods" />
+                <marker date="1491316617875" expanded="true" signature="501:568" ph="select count... sys_goods" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TradeMainback.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/BandServer/TradeMainback.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding>
+                <marker date="1491316623338" expanded="true" signature="165:227" ph="select uid,n... sys_user" />
+                <marker date="1491316623338" expanded="true" signature="282:350" ph="select count... sys_goods" />
+                <marker date="1491316623338" expanded="true" signature="391:458" ph="select count... sys_goods" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TradeMainn.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/BandServer/TradeMainn.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding>
+                <marker date="1491316627566" expanded="true" signature="165:227" ph="select uid,n... sys_user" />
+                <marker date="1491316627566" expanded="true" signature="293:361" ph="select count... sys_goods" />
+                <marker date="1491316627566" expanded="true" signature="393:460" ph="select count... sys_goods" />
+                <marker date="1491316627566" expanded="true" signature="7899:8016" ph="select a.*,c... sys_user_armor" />
+                <marker date="1491316627566" expanded="true" signature="9717:9834" ph="select a.*,c... sys_user_armor_trade" />
+                <marker date="1491316627566" expanded="true" signature="11490:11623" ph="select a.*,c... sys_user_armor_trade" />
+                <marker date="1491316627566" expanded="true" signature="13302:13433" ph="select a.*,c... sys_user_armor" />
+                <marker date="1491316627566" expanded="true" signature="15429:15507" ph="select * fro... sys_city_hero" />
+                <marker date="1491316627566" expanded="true" signature="17580:17665" ph="select * fro... sys_city_hero_trade" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activeuser.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/game/activeuser.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding>
+                <marker date="1491316635405" expanded="true" signature="484:543" ph="select count... test_code" />
+                <marker date="1491316635405" expanded="true" signature="647:698" ph="select count... test_code" />
+                <marker date="1491316635405" expanded="true" signature="802:878" ph="select count... test_code" />
+                <marker date="1491316635405" expanded="true" signature="963:1026" ph="update test_... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="global.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/game/global.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <marker date="1491316641109" expanded="true" signature="271:316" ph="select sid f... sys_sessions" />
+                <marker date="1491316641109" expanded="true" signature="796:835" ph="select * fro... sys_user" />
+                <marker date="1491316641109" expanded="true" signature="878:923" ph="select value... mem_state" />
+                <marker date="1491316641109" expanded="true" signature="1406:1455" ph="select state... sys_user_fcm" />
+                <marker date="1491316641109" expanded="true" signature="1495:1549" ph="select onlin... sys_user_fcm" />
+                <marker date="1491316641109" expanded="true" signature="1672:1717" ph="select value... mem_state" />
+                <marker date="1491316641109" expanded="true" signature="1795:1939" ph="select a.nam... cfg_designation" />
+                <marker date="1491316641109" expanded="true" signature="1989:2069" ph="select did f... sys_user_designation" />
+                <marker date="1491316641109" expanded="true" signature="2117:2221" ph="select * fro... cfg_designation" />
+                <marker date="1491316641109" expanded="true" signature="2367:2446" ph="update sys_u... " />
+                <marker date="1491316641109" expanded="true" signature="2523:2602" ph="select subst... sys_user_level" />
+                <marker date="1491316641109" expanded="true" signature="2964:3012" ph="select is_sp... sys_city" />
+                <marker date="1491316641109" expanded="true" signature="3053:3181" ph="select endti... mem_city_buffer" />
+                <marker date="1491316641109" expanded="true" signature="3366:3425" ph="update sys_c... " />
+                <marker date="1491316641109" expanded="true" signature="4814:5066" ph="update mem_h... " />
+                <marker date="1491316641109" expanded="true" signature="5102:5243" ph="select m.*,b... mem_city_resource" />
+                <marker date="1491316641109" expanded="true" signature="5277:5317" ph="select * fro... sys_alarm" />
+                <marker date="1491316641109" expanded="true" signature="5354:5418" ph="select `skil... sys_city_res_add" />
+                <marker date="1491316641109" expanded="true" signature="5557:5609" ph="select count... sys_info_alarm" />
+                <marker date="1491316641109" expanded="true" signature="5685:5750" ph="select * fro... sys_info_alarm" />
+                <marker date="1491316641109" expanded="true" signature="5796:5848" ph="delete from " />
+                <marker date="1491316641109" expanded="true" signature="6179:6288" ph="select * fro... sys_city_hero" />
+                <marker date="1491316641109" expanded="true" signature="6326:6435" ph="select * fro... sys_city_hero" />
+                <marker date="1491316641109" expanded="true" signature="6516:6597" ph="select * fro... mem_hero_buffer" />
+                <marker date="1491316641109" expanded="true" signature="6774:6882" ph="select * fro... sys_hero_attribute" />
+                <marker date="1491316641109" expanded="true" signature="7055:7163" ph="select * fro... sys_hero_attribute" />
+                <marker date="1491316641109" expanded="true" signature="7350:7418" ph="select * fro... sys_hero_attribute" />
+                <marker date="1491316641109" expanded="true" signature="7580:7651" ph="select * fro... sys_hero_attribute" />
+                <marker date="1491316641109" expanded="true" signature="7851:7900" ph="select level... sys_user_level" />
+                <marker date="1491316641109" expanded="true" signature="8144:8196" ph="select * fro... sys_city_hero" />
+                <marker date="1491316641109" expanded="true" signature="8328:8385" ph="select targe... sys_troops" />
+                <marker date="1491316641109" expanded="true" signature="8652:8714" ph="select * fro... sys_city_soldier" />
+                <marker date="1491316641109" expanded="true" signature="8891:8953" ph="select * fro... sys_city_defence" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/server/amfphp/gateway.php" />
+        <option value="$PROJECT_DIR$/server/amfphp/core/shared/util/Headers.php" />
+        <option value="$PROJECT_DIR$/server/amfphp/core/shared/app/BasicActions.php" />
+        <option value="$PROJECT_DIR$/server/lib/mysql.php" />
+        <option value="$PROJECT_DIR$/server/lib/PEAR.php" />
+        <option value="$PROJECT_DIR$/server/amfphp/core/shared/exception/MessageException.php" />
+        <option value="$PROJECT_DIR$/server/amfphp/core/shared/app/php5Executive.php" />
+        <option value="$PROJECT_DIR$/server/game/PKFunc.php" />
+        <option value="$PROJECT_DIR$/server/charge51.php" />
+        <option value="$PROJECT_DIR$/server/amfphp/core/amf/app/Filters.php" />
+        <option value="$PROJECT_DIR$/server/amfphp/core/amf/util/PageAbleResult.php" />
+        <option value="$PROJECT_DIR$/server/amfphp/core/shared/util/Authenticate.php" />
+        <option value="$PROJECT_DIR$/server/BandServer/TradeFunction.php" />
+        <option value="$PROJECT_DIR$/server/BandServer/TradeMain.php" />
+        <option value="$PROJECT_DIR$/server/BandServer/TradeMainback.php" />
+        <option value="$PROJECT_DIR$/server/BandServer/TradeMainn.php" />
+        <option value="$PROJECT_DIR$/server/game/activeuser.php" />
+        <option value="$PROJECT_DIR$/server/game/global.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-16" />
+    <option name="width" value="1370" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rxsg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rxsg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rxsg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rxsg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rxsg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rxsg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rxsg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rxsg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rxsg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="game" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/work_code/3g" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\huwei\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="624fa511-a467-434d-9d8c-e031546199b8" name="Default" comment="" />
+      <created>1491275071835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1491275071835</updated>
+      <workItem from="1491275073251" duration="487000" />
+      <workItem from="1491309418850" duration="4143000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4630000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-16" y="0" width="1370" height="745" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2534351" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server/amfphp/gateway.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="135" column="0" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/amfphp/globals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/amfphp/DiscoveryService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/amfphp/amfphp/core/amf/app/Filters.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/amfphp/core/shared/util/Headers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/game/ConfigInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <marker date="1381727602000" expanded="true" signature="150:172" ph="select * fro... cfg_pass" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/lib/PEAR.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="559" column="17" selection-start-line="559" selection-start-column="17" selection-end-line="559" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/lib/mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/lib/DB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="202" column="30" selection-start-line="202" selection-start-column="29" selection-end-line="202" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/amfphp/core/shared/app/php4Executive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="109" column="44" selection-start-line="109" selection-start-column="8" selection-end-line="109" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/amfphp/core/shared/app/BasicActions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/amfphp/core/shared/exception/MessageException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="56" column="27" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/amfphp/core/shared/app/php5Executive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="147" column="81" selection-start-line="147" selection-start-column="81" selection-end-line="147" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/game/PKFunc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <marker date="1491316365303" expanded="true" signature="5779:5860" ph="select uid f... cfg_pk_first" />
+            <marker date="1491316365303" expanded="true" signature="5893:5974" ph="select uid f... cfg_pk_first" />
+            <marker date="1491316365303" expanded="true" signature="5996:6085" ph="select 1 fro... cfg_pk_first" />
+            <marker date="1491316365303" expanded="true" signature="6107:6218" ph="update cfg_p... " />
+            <marker date="1491316365303" expanded="true" signature="6247:6336" ph="select 1 fro... cfg_pk_first" />
+            <marker date="1491316365303" expanded="true" signature="6377:6488" ph="update cfg_p... " />
+            <marker date="1491316365303" expanded="true" signature="6517:6606" ph="select 1 fro... cfg_pk_first" />
+            <marker date="1491316365303" expanded="true" signature="6664:6775" ph="update cfg_p... " />
+            <marker date="1491316365303" expanded="true" signature="7381:7415" ph="select * fro... cfg_goods" />
+            <marker date="1491316365303" expanded="true" signature="7501:7538" ph="select name cfg_goods" />
+            <marker date="1491316365303" expanded="true" signature="7578:7614" ph="select 1 fro... sys_pk_user" />
+            <marker date="1491316365303" expanded="true" signature="7640:7702" ph="insert into sys_pk_user... " />
+            <marker date="1491316365303" expanded="true" signature="7780:7822" ph="select speci... sys_pk_user" />
+            <marker date="1491316365303" expanded="true" signature="7875:7916" ph="select norma... sys_pk_user" />
+            <marker date="1491316365303" expanded="true" signature="8045:8118" ph="select max(l... cfg_pk_level" />
+            <marker date="1491316365303" expanded="true" signature="8262:8369" ph="select rewar... cfg_pk_reward" />
+            <marker date="1491316365303" expanded="true" signature="8439:8472" ph="select * fro... cfg_armor" />
+            <marker date="1491316365303" expanded="true" signature="8613:8646" ph="select * fro... cfg_armor" />
+            <marker date="1491316365303" expanded="true" signature="8766:8802" ph="select name cfg_armor" />
+            <marker date="1491316365303" expanded="true" signature="8886:8993" ph="select rewar... cfg_pk_reward" />
+            <marker date="1491316365303" expanded="true" signature="9159:9193" ph="select * fro... cfg_goods" />
+            <marker date="1491316365303" expanded="true" signature="9314:9351" ph="select name cfg_goods" />
+            <marker date="1491316365303" expanded="true" signature="9600:9647" ph="update sys_p... " />
+            <marker date="1491316365303" expanded="true" signature="9722:9770" ph="update sys_p... " />
+            <marker date="1491316365303" expanded="true" signature="9882:9918" ph="select name sys_user" />
+            <marker date="1491316365303" expanded="true" signature="9965:10011" ph="select battl... cfg_pk_battle" />
+            <marker date="1491316365303" expanded="true" signature="10521:10563" ph="select speci... sys_pk_user" />
+            <marker date="1491316365303" expanded="true" signature="10616:10657" ph="select norma... sys_pk_user" />
+            <marker date="1491316365303" expanded="true" signature="10786:10859" ph="select max(l... cfg_pk_level" />
+            <marker date="1491316365303" expanded="true" signature="11513:11577" ph="select level... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="11616:11662" ph="select hero_... cfg_pk_battle" />
+            <marker date="1491316365303" expanded="true" signature="11828:11871" ph="select level... sys_user_level" />
+            <marker date="1491316365303" expanded="true" signature="11914:11960" ph="select user_... cfg_pk_battle" />
+            <marker date="1491316365303" expanded="true" signature="13005:13100" ph="select count... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="13223:13552" ph="select a.hid... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="13596:13925" ph="select a.hid... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="13969:14298" ph="select a.hid... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="14358:14468" ph="select hid f... cfg_pk_level" />
+            <marker date="1491316365303" expanded="true" signature="14503:14758" ph="select hid,s... cfg_pk_hero" />
+            <marker date="1491316365303" expanded="true" signature="14805:14915" ph="select hid f... cfg_pk_level" />
+            <marker date="1491316365303" expanded="true" signature="14950:15205" ph="select hid,s... cfg_pk_hero" />
+            <marker date="1491316365303" expanded="true" signature="15252:15362" ph="select hid f... cfg_pk_level" />
+            <marker date="1491316365303" expanded="true" signature="15397:15652" ph="select hid,s... cfg_pk_hero" />
+            <marker date="1491316365303" expanded="true" signature="16242:16337" ph="select 1 fro... cfg_pk_first" />
+            <marker date="1491316365303" expanded="true" signature="16442:16553" ph="select 1 fro... cfg_pk_first" />
+            <marker date="1491316365303" expanded="true" signature="16660:16765" ph="select rewar... cfg_pk_first" />
+            <marker date="1491316365303" expanded="true" signature="16867:16992" ph="update cfg_p... " />
+            <marker date="1491316365303" expanded="true" signature="17171:17220" ph="select norma... sys_pk_user" />
+            <marker date="1491316365303" expanded="true" signature="17273:17345" ph="insert into sys_pk_user... " />
+            <marker date="1491316365303" expanded="true" signature="17382:17431" ph="select norma... sys_pk_user" />
+            <marker date="1491316365303" expanded="true" signature="17501:17958" ph="select b.bat... cfg_pk_battle" />
+            <marker date="1491316365303" expanded="true" signature="18025:18482" ph="select b.bat... cfg_pk_battle" />
+            <marker date="1491316365303" expanded="true" signature="18568:18596" ph="select id fr... cfg_pk_battle" />
+            <marker date="1491316365303" expanded="true" signature="18811:18845" ph="select * fro... cfg_goods" />
+            <marker date="1491316365303" expanded="true" signature="19050:19084" ph="select * fro... cfg_goods" />
+            <marker date="1491316365303" expanded="true" signature="19191:19243" ph="select * fro... sys_goods" />
+            <marker date="1491316365303" expanded="true" signature="19442:19498" ph="select count... sys_goods" />
+            <marker date="1491316365303" expanded="true" signature="19555:19595" ph="select id,de... cfg_pk_battle" />
+            <marker date="1491316365303" expanded="true" signature="19856:19960" ph="select * fro... cfg_pk_first" />
+            <marker date="1491316365303" expanded="true" signature="20166:20211" ph="select name sys_user" />
+            <marker date="1491316365303" expanded="true" signature="20648:20688" ph="select * fro... cfg_goods" />
+            <marker date="1491316365303" expanded="true" signature="20925:20968" ph="select * fro... cfg_armor" />
+            <marker date="1491316365303" expanded="true" signature="21209:21258" ph="select norma... sys_pk_user" />
+            <marker date="1491316365303" expanded="true" signature="21300:21356" ph="select count... sys_goods" />
+            <marker date="1491316365303" expanded="true" signature="21397:21453" ph="select count... sys_goods" />
+            <marker date="1491316365303" expanded="true" signature="22332:22392" ph="select count... sys_goods" />
+            <marker date="1491316365303" expanded="true" signature="22829:22866" ph="select money... sys_user" />
+            <marker date="1491316365303" expanded="true" signature="23556:23666" ph="select * fro... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="23701:23908" ph="select h.*,(... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="24057:24123" ph="select hid f... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="24210:24444" ph="select h.*,(... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="24555:24665" ph="select * fro... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="24701:24934" ph="select h.*,(... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="25107:25327" ph="select h.*,(... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="25375:25621" ph="select h.*,(... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="26006:26072" ph="select hid f... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="26346:26420" ph="select * fro... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="26520:26566" ph="select hid f... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="26681:26840" ph="insert into mem_assemble_hero... " />
+            <marker date="1491316365303" expanded="true" signature="27003:27064" ph="select hid1,... mem_assemble_hero" />
+            <marker date="1491316365303" expanded="true" signature="27120:27222" ph="select h.*,b... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="27271:27373" ph="select h.*,b... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="27422:27524" ph="select h.*,b... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="27779:27825" ph="select nobil... sys_user" />
+            <marker date="1491316365303" expanded="true" signature="28045:28088" ph="select * fro... mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="28125:28173" ph="select * fro... sys_user_assemble" />
+            <marker date="1491316365303" expanded="true" signature="28298:28344" ph="select rank mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="28361:28453" ph="insert into sys_user_assemble... " />
+            <marker date="1491316365303" expanded="true" signature="28497:28545" ph="select * fro... mem_assemble_hero" />
+            <marker date="1491316365303" expanded="true" signature="28614:28680" ph="select hid f... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="28722:28827" ph="insert into mem_assemble_hero... " />
+            <marker date="1491316365303" expanded="true" signature="28971:29053" ph="select next_... sys_user_assemble" />
+            <marker date="1491316365303" expanded="true" signature="29132:29187" ph="update sys_u... " />
+            <marker date="1491316365303" expanded="true" signature="29243:29355" ph="select *,GRE... sys_user_assemble" />
+            <marker date="1491316365303" expanded="true" signature="29697:29731" ph="select max(r... mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="29826:29894" ph="select level... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="29946:30032" ph="insert into mem_assemble... " />
+            <marker date="1491316365303" expanded="true" signature="30137:30217" ph="select * fro... mem_assemble_win_record" />
+            <marker date="1491316365303" expanded="true" signature="30343:30379" ph="select name sys_user" />
+            <marker date="1491316365303" expanded="true" signature="30446:30482" ph="select name sys_user" />
+            <marker date="1491316365303" expanded="true" signature="30551:30594" ph="select level... sys_user_level" />
+            <marker date="1491316365303" expanded="true" signature="31025:31123" ph="select * fro... mem_assemble_record" />
+            <marker date="1491316365303" expanded="true" signature="31246:31282" ph="select name sys_user" />
+            <marker date="1491316365303" expanded="true" signature="31353:31396" ph="select level... sys_user_level" />
+            <marker date="1491316365303" expanded="true" signature="31554:31590" ph="select name sys_user" />
+            <marker date="1491316365303" expanded="true" signature="31657:31704" ph="select name cfg_assemble_reward" />
+            <marker date="1491316365303" expanded="true" signature="31839:31876" ph="select name cfg_goods" />
+            <marker date="1491316365303" expanded="true" signature="32321:32365" ph="select rank mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="32504:32550" ph="select rank mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="32625:32728" ph="select *,GRE... mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="32815:32930" ph="select *,GRE... mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="33022:33125" ph="select *,GRE... mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="33265:33317" ph="select name,... cfg_assemble_reward" />
+            <marker date="1491316365303" expanded="true" signature="33388:33431" ph="select level... sys_user_level" />
+            <marker date="1491316365303" expanded="true" signature="33496:33532" ph="select name sys_user" />
+            <marker date="1491316365303" expanded="true" signature="33603:33775" ph="select h.rew... cfg_assemble_special_hero" />
+            <marker date="1491316365303" expanded="true" signature="34575:34618" ph="select 1 fro... mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="34746:34789" ph="select 1 fro... mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="34996:35085" ph="select 1 fro... sys_user_assemble" />
+            <marker date="1491316365303" expanded="true" signature="35183:35229" ph="select rank mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="35353:35402" ph="select * fro... mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="35531:35577" ph="select nobil... sys_user" />
+            <marker date="1491316365303" expanded="true" signature="36158:36206" ph="select * fro... mem_assemble_hero" />
+            <marker date="1491316365303" expanded="true" signature="36246:36300" ph="select * fro... mem_assemble_hero" />
+            <marker date="1491316365303" expanded="true" signature="36548:36596" ph="select * fro... mem_assemble_hero" />
+            <marker date="1491316365303" expanded="true" signature="36636:36690" ph="select * fro... mem_assemble_hero" />
+            <marker date="1491316365303" expanded="true" signature="36738:37067" ph="select a.hid... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="37140:37469" ph="select a.hid... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="37542:37871" ph="select a.hid... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="37969:38298" ph="select a.hid... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="38372:38701" ph="select a.hid... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="38775:39104" ph="select a.hid... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="39202:39457" ph="select hid,s... cfg_pk_hero" />
+            <marker date="1491316365303" expanded="true" signature="39531:39786" ph="select hid,s... cfg_pk_hero" />
+            <marker date="1491316365303" expanded="true" signature="39860:40115" ph="select hid,s... cfg_pk_hero" />
+            <marker date="1491316365303" expanded="true" signature="40303:40385" ph="select next_... sys_user_assemble" />
+            <marker date="1491316365303" expanded="true" signature="40464:40519" ph="update sys_u... " />
+            <marker date="1491316365303" expanded="true" signature="40586:40634" ph="select * fro... sys_user_assemble" />
+            <marker date="1491316365303" expanded="true" signature="40859:40921" ph="select 1 fro... sys_user" />
+            <marker date="1491316365303" expanded="true" signature="41150:41203" ph="select 1 fro... sys_user" />
+            <marker date="1491316365303" expanded="true" signature="41867:41954" ph="select h.*,b... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="42014:42101" ph="select h.*,b... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="42161:42248" ph="select h.*,b... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="42339:42426" ph="select h.*,b... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="42487:42574" ph="select h.*,b... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="42635:42722" ph="select h.*,b... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="42791:42921" ph="select *,FLO... cfg_pk_hero" />
+            <marker date="1491316365303" expanded="true" signature="42982:43112" ph="select *,FLO... cfg_pk_hero" />
+            <marker date="1491316365303" expanded="true" signature="43173:43303" ph="select *,FLO... cfg_pk_hero" />
+            <marker date="1491316365303" expanded="true" signature="43784:43856" ph="select hid f... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="44152:44242" ph="select count... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="44366:44425" ph="select count... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="44585:44702" ph="update mem_a... " />
+            <marker date="1491316365303" expanded="true" signature="44801:44873" ph="select hid f... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="45080:45153" ph="update mem_a... " />
+            <marker date="1491316365303" expanded="true" signature="45236:45326" ph="select count... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="45445:45516" ph="select hid f... sys_city_hero" />
+            <marker date="1491316365303" expanded="true" signature="45742:45825" ph="update mem_a... " />
+            <marker date="1491316365303" expanded="true" signature="45854:45949" ph="update mem_a... " />
+            <marker date="1491316365303" expanded="true" signature="46029:46094" ph="update sys_u... " />
+            <marker date="1491316365303" expanded="true" signature="46110:46202" ph="update sys_u... " />
+            <marker date="1491316365303" expanded="true" signature="46396:46450" ph="select 1 fro... sys_user_assemble" />
+            <marker date="1491316365303" expanded="true" signature="46468:46592" ph="insert into sys_user_assemble... " />
+            <marker date="1491316365303" expanded="true" signature="46522:46592" ph="select '${$a... mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="46615:46669" ph="select 1 fro... sys_user_assemble" />
+            <marker date="1491316365303" expanded="true" signature="46687:46811" ph="insert into sys_user_assemble... " />
+            <marker date="1491316365303" expanded="true" signature="46741:46811" ph="select '${$r... mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="46870:46918" ph="select name sys_user" />
+            <marker date="1491316365303" expanded="true" signature="47004:47059" ph="select level... sys_user_level" />
+            <marker date="1491316365303" expanded="true" signature="47146:47205" ph="select type cfg_assemble_special_hero" />
+            <marker date="1491316365303" expanded="true" signature="47395:47475" ph="select 1 fro... sys_user_assemble" />
+            <marker date="1491316365303" expanded="true" signature="47614:47671" ph="select rank sys_user_assemble" />
+            <marker date="1491316365303" expanded="true" signature="47780:47855" ph="update sys_u... " />
+            <marker date="1491316365303" expanded="true" signature="47874:47944" ph="update mem_a... " />
+            <marker date="1491316365303" expanded="true" signature="47973:48038" ph="update mem_a... " />
+            <marker date="1491316365303" expanded="true" signature="48057:48127" ph="update sys_u... " />
+            <marker date="1491316365303" expanded="true" signature="48146:48193" ph="delete from " />
+            <marker date="1491316365303" expanded="true" signature="48232:48266" ph="select max(r... mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="48389:48436" ph="delete from " />
+            <marker date="1491316365303" expanded="true" signature="48475:48509" ph="select max(r... mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="48590:48673" ph="select 1 fro... sys_user_assemble" />
+            <marker date="1491316365303" expanded="true" signature="48701:48779" ph="update sys_u... " />
+            <marker date="1491316365303" expanded="true" signature="48828:48919" ph="select times... mem_assemble_record" />
+            <marker date="1491316365303" expanded="true" signature="49035:49209" ph="insert into mem_assemble_win_record... " />
+            <marker date="1491316365303" expanded="true" signature="49404:49463" ph="select maxwi... sys_user_assemble" />
+            <marker date="1491316365303" expanded="true" signature="49547:49619" ph="update sys_u... " />
+            <marker date="1491316365303" expanded="true" signature="49670:49719" ph="select base cfg_assemble_reward" />
+            <marker date="1491316365303" expanded="true" signature="50034:50127" ph="select 1 fro... mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="50146:50413" ph="insert into mem_assemble_record... " />
+            <marker date="1491316365303" expanded="true" signature="50441:50763" ph="insert into mem_assemble_record... " />
+            <marker date="1491316365303" expanded="true" signature="51011:51058" ph="update cfg_a... " />
+            <marker date="1491316365303" expanded="true" signature="51077:51123" ph="delete from " />
+            <marker date="1491316365303" expanded="true" signature="51295:51507" ph="insert into mem_assemble_record... " />
+            <marker date="1491316365303" expanded="true" signature="51614:51662" ph="select name sys_user" />
+            <marker date="1491316365303" expanded="true" signature="52234:52336" ph="select uid,r... mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="52427:52467" ph="select rank mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="52540:52591" ph="update mem_a... " />
+            <marker date="1491316365303" expanded="true" signature="52631:52687" ph="update sys_u... " />
+            <marker date="1491316365303" expanded="true" signature="52814:52918" ph="select uid,r... mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="53015:53055" ph="select rank mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="53131:53181" ph="update mem_a... " />
+            <marker date="1491316365303" expanded="true" signature="53223:53278" ph="update sys_u... " />
+            <marker date="1491316365303" expanded="true" signature="53345:53408" ph="select 1 fro... sys_user_assemble" />
+            <marker date="1491316365303" expanded="true" signature="53456:53514" ph="update sys_u... " />
+            <marker date="1491316365303" expanded="true" signature="53641:53710" ph="select rank,... log_assemble_reward" />
+            <marker date="1491316365303" expanded="true" signature="53892:53942" ph="select level... sys_user_level" />
+            <marker date="1491316365303" expanded="true" signature="54125:54185" ph="select * fro... cfg_activity_rank_reward" />
+            <marker date="1491316365303" expanded="true" signature="54272:54332" ph="select rank,... log_assemble_reward" />
+            <marker date="1491316365303" expanded="true" signature="54631:54682" ph="select lastc... sys_user" />
+            <marker date="1491316365303" expanded="true" signature="54813:54867" ph="select type,... cfg_assemble_reward" />
+            <marker date="1491316365303" expanded="true" signature="55363:55397" ph="select * fro... cfg_goods" />
+            <marker date="1491316365303" expanded="true" signature="55545:55590" ph="select * fro... cfg_armor" />
+            <marker date="1491316365303" expanded="true" signature="56095:56142" ph="select name cfg_assemble_reward" />
+            <marker date="1491316365303" expanded="true" signature="56789:56822" ph="select * fro... cfg_assemble_reward" />
+            <marker date="1491316365303" expanded="true" signature="57143:57239" ph="update mem_a... " />
+            <marker date="1491316365303" expanded="true" signature="57665:57705" ph="select * fro... cfg_goods" />
+            <marker date="1491316365303" expanded="true" signature="57761:57800" ph="select * fro... cfg_armor" />
+            <marker date="1491316365303" expanded="true" signature="58151:58201" ph="select * fro... log_assemble_reward" />
+            <marker date="1491316365303" expanded="true" signature="58458:58556" ph="select rewar... cfg_activity_rank_reward" />
+            <marker date="1491316365303" expanded="true" signature="58681:58761" ph="update log_a... " />
+            <marker date="1491316365303" expanded="true" signature="58940:59029" ph="select 1 fro... sys_user_assemble" />
+            <marker date="1491316365303" expanded="true" signature="59120:59173" ph="select 1 fro... sys_user" />
+            <marker date="1491316365303" expanded="true" signature="59279:59361" ph="update sys_u... " />
+            <marker date="1491316365303" expanded="true" signature="59636:59679" ph="select * fro... mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="59785:59857" ph="select 1 fro... mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="61285:61328" ph="select 1 fro... mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="61408:61456" ph="select 1 fro... sys_user_assemble" />
+            <marker date="1491316365303" expanded="true" signature="61535:61622" ph="select 1 fro... sys_user_assemble" />
+            <marker date="1491316365303" expanded="true" signature="61836:61918" ph="update sys_u... " />
+            <marker date="1491316365303" expanded="true" signature="62193:62239" ph="select rank mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="62450:62484" ph="select max(r... mem_assemble" />
+            <marker date="1491316365303" expanded="true" signature="62636:62686" ph="select 1 fro... sys_user" />
+            <marker date="1491316365303" expanded="true" signature="62895:62956" ph="select 1 fro... sys_user_assemble" />
+            <marker date="1491316365303" expanded="true" signature="62984:63049" ph="update sys_u... " />
+            <marker date="1491316365303" expanded="true" signature="63138:63202" ph="update sys_u... " />
+            <marker date="1491316365303" expanded="true" signature="63218:63277" ph="update mem_a... " />
+            <marker date="1491316365303" expanded="true" signature="63313:63372" ph="select rank,... sys_user_assemble" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/game/Command.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3080">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/charge51.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/amfphp/core/amf/app/Filters.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="106" column="5" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/amfphp/core/amf/util/PageAbleResult.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/amfphp/core/shared/util/Authenticate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="90" column="13" selection-start-line="90" selection-start-column="13" selection-end-line="90" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/BandServer/TradeFunction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <marker date="1491316612898" expanded="true" signature="406:453" ph="select lastc... sys_user" />
+            <marker date="1491316612898" expanded="true" signature="701:770" ph="select sid f... sys_user_armor" />
+            <marker date="1491316612898" expanded="true" signature="887:1320" ph="insert into sys_user_armor_trade" />
+            <marker date="1491316612898" expanded="true" signature="1107:1319" ph="select sid,u... sys_user_armor" />
+            <marker date="1491316612898" expanded="true" signature="1339:1405" ph="delete from " />
+            <marker date="1491316612898" expanded="true" signature="1762:1815" ph="select money... sys_user" />
+            <marker date="1491316612898" expanded="true" signature="2029:2090" ph="select uid f... sys_user_armor_trade" />
+            <marker date="1491316612898" expanded="true" signature="2216:2610" ph="insert into sys_user_armor... " />
+            <marker date="1491316612898" expanded="true" signature="2415:2609" ph="select sid,$... sys_user_armor_trade" />
+            <marker date="1491316612898" expanded="true" signature="2629:2687" ph="delete from " />
+            <marker date="1491316612898" expanded="true" signature="2705:2783" ph="update sys_u... " />
+            <marker date="1491316612898" expanded="true" signature="2830:2879" ph="select lastc... sys_user" />
+            <marker date="1491316612898" expanded="true" signature="2936:3012" ph="update sys_u... " />
+            <marker date="1491316612898" expanded="true" signature="3184:3264" ph="select sid f... sys_user_armor_trade" />
+            <marker date="1491316612898" expanded="true" signature="3378:3788" ph="insert into sys_user_armor... " />
+            <marker date="1491316612898" expanded="true" signature="3577:3787" ph="select sid,u... sys_user_armor_trade" />
+            <marker date="1491316612898" expanded="true" signature="3807:3884" ph="delete from " />
+            <marker date="1491316612898" expanded="true" signature="4330:4447" ph="select a.*,c... sys_user_armor" />
+            <marker date="1491316612898" expanded="true" signature="4626:4686" ph="select count... sys_goods" />
+            <marker date="1491316612898" expanded="true" signature="4733:4792" ph="select count... sys_goods" />
+            <marker date="1491316612898" expanded="true" signature="4845:4904" ph="select count... sys_goods" />
+            <marker date="1491316612898" expanded="true" signature="5177:5247" ph="update sys_g... " />
+            <marker date="1491316612898" expanded="true" signature="5286:5355" ph="update sys_g... " />
+            <marker date="1491316612898" expanded="true" signature="5387:5456" ph="update sys_g... " />
+            <marker date="1491316612898" expanded="true" signature="5795:5842" ph="delete from " />
+            <marker date="1491316612898" expanded="true" signature="6251:6329" ph="update sys_u... " />
+            <marker date="1491316612898" expanded="true" signature="6734:6812" ph="update sys_u... " />
+            <marker date="1491316612898" expanded="true" signature="7203:7281" ph="update sys_u... " />
+            <marker date="1491316612898" expanded="true" signature="7447:7582" ph="update sys_u... " />
+            <marker date="1491316612898" expanded="true" signature="7842:7977" ph="update sys_u... " />
+            <marker date="1491316612898" expanded="true" signature="8075:8210" ph="update sys_u... " />
+            <marker date="1491316612898" expanded="true" signature="8592:8658" ph="select * fro... sys_city_hero" />
+            <marker date="1491316612898" expanded="true" signature="8778:9180" ph="insert into sys_city_hero_trade... " />
+            <marker date="1491316612898" expanded="true" signature="9203:9268" ph="delete from " />
+            <marker date="1491316612898" expanded="true" signature="9289:9338" ph="delete from " />
+            <marker date="1491316612898" expanded="true" signature="9362:9433" ph="update sys_u... " />
+            <marker date="1491316612898" expanded="true" signature="9626:9705" ph="select hid f... sys_city_hero_trade" />
+            <marker date="1491316612898" expanded="true" signature="9825:10562" ph="insert into sys_city_hero" />
+            <marker date="1491316612898" expanded="true" signature="10217:10561" ph="select hid,u... sys_city_hero_trade" />
+            <marker date="1491316612898" expanded="true" signature="10648:10720" ph="delete from " />
+            <marker date="1491316612898" expanded="true" signature="11064:11117" ph="select money... sys_user" />
+            <marker date="1491316612898" expanded="true" signature="11352:11409" ph="select uid f... sys_city_hero_trade" />
+            <marker date="1491316612898" expanded="true" signature="11523:12271" ph="insert into sys_city_hero" />
+            <marker date="1491316612898" expanded="true" signature="11915:12270" ph="select hid,$... sys_city_hero_trade" />
+            <marker date="1491316612898" expanded="true" signature="12290:12364" ph="delete from " />
+            <marker date="1491316612898" expanded="true" signature="12451:12523" ph="update sys_u... " />
+            <marker date="1491316612898" expanded="true" signature="12581:12654" ph="update sys_u... " />
+            <marker date="1491316612898" expanded="true" signature="13212:13464" ph="select sum(l... sys_city_hero" />
+            <marker date="1491316612898" expanded="true" signature="13543:13610" ph="update mem_c... " />
+            <marker date="1491316612898" expanded="true" signature="13686:13734" ph="select * fro... sys_city_hero" />
+            <marker date="1491316612898" expanded="true" signature="14052:14192" ph="insert into mem_hero_blood... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/BandServer/TradeMain.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding>
+            <marker date="1491316617875" expanded="true" signature="165:227" ph="select uid,n... sys_user" />
+            <marker date="1491316617875" expanded="true" signature="281:349" ph="select count... sys_goods" />
+            <marker date="1491316617875" expanded="true" signature="391:458" ph="select count... sys_goods" />
+            <marker date="1491316617875" expanded="true" signature="501:568" ph="select count... sys_goods" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/BandServer/TradeMainback.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding>
+            <marker date="1491316623338" expanded="true" signature="165:227" ph="select uid,n... sys_user" />
+            <marker date="1491316623338" expanded="true" signature="282:350" ph="select count... sys_goods" />
+            <marker date="1491316623338" expanded="true" signature="391:458" ph="select count... sys_goods" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/BandServer/TradeMainn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding>
+            <marker date="1491316627566" expanded="true" signature="165:227" ph="select uid,n... sys_user" />
+            <marker date="1491316627566" expanded="true" signature="293:361" ph="select count... sys_goods" />
+            <marker date="1491316627566" expanded="true" signature="393:460" ph="select count... sys_goods" />
+            <marker date="1491316627566" expanded="true" signature="7899:8016" ph="select a.*,c... sys_user_armor" />
+            <marker date="1491316627566" expanded="true" signature="9717:9834" ph="select a.*,c... sys_user_armor_trade" />
+            <marker date="1491316627566" expanded="true" signature="11490:11623" ph="select a.*,c... sys_user_armor_trade" />
+            <marker date="1491316627566" expanded="true" signature="13302:13433" ph="select a.*,c... sys_user_armor" />
+            <marker date="1491316627566" expanded="true" signature="15429:15507" ph="select * fro... sys_city_hero" />
+            <marker date="1491316627566" expanded="true" signature="17580:17665" ph="select * fro... sys_city_hero_trade" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/game/activeuser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding>
+            <marker date="1491316635405" expanded="true" signature="484:543" ph="select count... test_code" />
+            <marker date="1491316635405" expanded="true" signature="647:698" ph="select count... test_code" />
+            <marker date="1491316635405" expanded="true" signature="802:878" ph="select count... test_code" />
+            <marker date="1491316635405" expanded="true" signature="963:1026" ph="update test_... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/game/global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <marker date="1491316641109" expanded="true" signature="271:316" ph="select sid f... sys_sessions" />
+            <marker date="1491316641109" expanded="true" signature="796:835" ph="select * fro... sys_user" />
+            <marker date="1491316641109" expanded="true" signature="878:923" ph="select value... mem_state" />
+            <marker date="1491316641109" expanded="true" signature="1406:1455" ph="select state... sys_user_fcm" />
+            <marker date="1491316641109" expanded="true" signature="1495:1549" ph="select onlin... sys_user_fcm" />
+            <marker date="1491316641109" expanded="true" signature="1672:1717" ph="select value... mem_state" />
+            <marker date="1491316641109" expanded="true" signature="1795:1939" ph="select a.nam... cfg_designation" />
+            <marker date="1491316641109" expanded="true" signature="1989:2069" ph="select did f... sys_user_designation" />
+            <marker date="1491316641109" expanded="true" signature="2117:2221" ph="select * fro... cfg_designation" />
+            <marker date="1491316641109" expanded="true" signature="2367:2446" ph="update sys_u... " />
+            <marker date="1491316641109" expanded="true" signature="2523:2602" ph="select subst... sys_user_level" />
+            <marker date="1491316641109" expanded="true" signature="2964:3012" ph="select is_sp... sys_city" />
+            <marker date="1491316641109" expanded="true" signature="3053:3181" ph="select endti... mem_city_buffer" />
+            <marker date="1491316641109" expanded="true" signature="3366:3425" ph="update sys_c... " />
+            <marker date="1491316641109" expanded="true" signature="4814:5066" ph="update mem_h... " />
+            <marker date="1491316641109" expanded="true" signature="5102:5243" ph="select m.*,b... mem_city_resource" />
+            <marker date="1491316641109" expanded="true" signature="5277:5317" ph="select * fro... sys_alarm" />
+            <marker date="1491316641109" expanded="true" signature="5354:5418" ph="select `skil... sys_city_res_add" />
+            <marker date="1491316641109" expanded="true" signature="5557:5609" ph="select count... sys_info_alarm" />
+            <marker date="1491316641109" expanded="true" signature="5685:5750" ph="select * fro... sys_info_alarm" />
+            <marker date="1491316641109" expanded="true" signature="5796:5848" ph="delete from " />
+            <marker date="1491316641109" expanded="true" signature="6179:6288" ph="select * fro... sys_city_hero" />
+            <marker date="1491316641109" expanded="true" signature="6326:6435" ph="select * fro... sys_city_hero" />
+            <marker date="1491316641109" expanded="true" signature="6516:6597" ph="select * fro... mem_hero_buffer" />
+            <marker date="1491316641109" expanded="true" signature="6774:6882" ph="select * fro... sys_hero_attribute" />
+            <marker date="1491316641109" expanded="true" signature="7055:7163" ph="select * fro... sys_hero_attribute" />
+            <marker date="1491316641109" expanded="true" signature="7350:7418" ph="select * fro... sys_hero_attribute" />
+            <marker date="1491316641109" expanded="true" signature="7580:7651" ph="select * fro... sys_hero_attribute" />
+            <marker date="1491316641109" expanded="true" signature="7851:7900" ph="select level... sys_user_level" />
+            <marker date="1491316641109" expanded="true" signature="8144:8196" ph="select * fro... sys_city_hero" />
+            <marker date="1491316641109" expanded="true" signature="8328:8385" ph="select targe... sys_troops" />
+            <marker date="1491316641109" expanded="true" signature="8652:8714" ph="select * fro... sys_city_soldier" />
+            <marker date="1491316641109" expanded="true" signature="8891:8953" ph="select * fro... sys_city_defence" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

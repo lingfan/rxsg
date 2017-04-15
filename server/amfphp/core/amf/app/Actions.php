@@ -204,10 +204,10 @@ function executionAction (&$amfbody)
 					return false;
 				$results = Executive::doMethodCall($amfbody, $construct, $method, $args); // do the magic
 				
-				error_log(json_encode($method)."\n",3,dirname(__FILE__).'/call.log');
-				error_log(json_encode($args)."\n",3,dirname(__FILE__).'/call.log');
-				error_log(json_encode($results)."\n",3,dirname(__FILE__).'/call.log');
-				error_log("===========================================================\n",3,dirname(__FILE__).'/call.log');
+				//error_log(json_encode($method)."\n",3,dirname(__FILE__).'/call.log');
+				//error_log(json_encode($args)."\n",3,dirname(__FILE__).'/call.log');
+				//error_log(json_encode($results)."\n",3,dirname(__FILE__).'/call.log');
+				//error_log("===========================================================\n",3,dirname(__FILE__).'/call.log');
 
 				global $amfphp;
 				$amfphp['callTime'] += microtime_float() - $time;
